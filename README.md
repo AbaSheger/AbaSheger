@@ -1,5 +1,5 @@
 ## Hi, there! I'm Abenezer.
-<p align="left">I'm a software developer passionate about technology and creating impactful software solutions. Whether it's building responsive web applications or diving into the latest in technology trends, I am always ready to learn and adapt. I enjoy coding in multiple languages and frameworks, and am always eager to tackle new challenges and improve my skills.
+<p align="left">I'm a software developer passionate about technology and creating impactful software solutions. Whether it's building responsive web applications, diving into the latest technology trends, or developing robust backend systems with Java and Spring Boot, I am always eager to learn and adapt. I am skilled in tackling new challenges and pushing the boundaries of what I can achieve with code.
 </p>
 
 ## Core Technologies
@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="30"/>
 </p>
 
 ## Skills
