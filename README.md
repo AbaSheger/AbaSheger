@@ -9,15 +9,23 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-REST%20APIs-009688?style=flat-square&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="30"/>
 </p>
 
-## Skills
+## Soft Skills
 <p align="left">
   <img src="https://img.shields.io/badge/-Problem%20Solving-000000?style=flat-square&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/-Communication%20Skills-00BFFF?style=flat-square&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-Teamwork-007396?style=flat-square&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-Critical%20Thinking-FF6347?style=flat-square&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-Adaptability-FFA500?style=flat-square&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-Efficiency-32CD32?style=flat-square&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-Technical%20Handling-FFD700?style=flat-square&logoColor=white" height="25"/>
 </p>
 
 ## Contacts
