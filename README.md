@@ -1,6 +1,6 @@
 
+**🌟 Seeking a System Development Internship from Oct 14, 2024, to Mar 14, 2025! 🌟**
 
-<div class="banner">🌟 Seeking a System Development Internship from Oct 14, 2024, to Mar 14, 2025! 🌟</div>
 
 <div class="content">
   <h2>Hi, there! I'm Abenezer.</h2>
