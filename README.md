@@ -19,7 +19,7 @@
     padding: 10px 20px;
     text-align: center;
     font-size: 24px;
-    animation: blinker 1.5s linear infinite;
+    animation: blinker 2s linear infinite;
   }
   @keyframes blinker {
     50% { opacity: 0; }
@@ -38,7 +38,7 @@
 
 <div class="content">
   <h2>Hi, there! I'm Abenezer.</h2>
-  <p>I'm a software developer passionate about technology and creating impactful software solutions. Whether it's building responsive web applications, diving into the latest technology trends, or developing robust backend systems with Java and Spring Boot, I am always eager to learn and adapt. I am skilled in tackling new challenges and pushing the boundaries of what I can achieve with code.</p>
+  <p>I'm a software developer based in Borlänge, Dalarna, passionate about technology and creating impactful software solutions. Whether it's building responsive web applications, diving into the latest technology trends, or developing robust backend systems with Java and Spring Boot, I am always eager to learn and adapt. I am skilled in tackling new challenges and pushing the boundaries of what I can achieve with code.</p>
 
   <h3>Core Technologies</h3>
   <p>
@@ -57,13 +57,13 @@
   
   <h3>Soft Skills</h3>
   <p>
-    <img src="https://img.shields.io/badge/-Problem%20Solving-000000?style=for-the-badge&logoColor=white" height="25"/>
-    <img src="https://img.shields.io/badge/-Communication%20Skills-00BFFF?style=for-the-badge&logoColor=white" height="25"/>
-    <img src="https://img.shields.io/badge/-Teamwork-007396?style=for-the-badge&logoColor=white" height="25"/>
-    <img src="https://img.shields.io/badge/-Critical%20Thinking-FF6347?style=for-the-badge&logoColor=white" height="25"/>
-    <img src="https://img.shields.io/badge/-Adaptability-FFA500?style=for-the-badge&logoColor=white" height="25"/>
-    <img src="https://img.shields.io/badge/-Efficiency-32CD32?style=for-the-badge&logoColor=white" height="25"/>
-    <img src="https://img.shields.io/badge/-Technical%20Handling-FFD700?style=for-the-badge&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/-Problem%20Solving-000000?style=flat-square&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/-Communication%20Skills-00BFFF?style=flat-square&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/-Teamwork-007396?style=flat-square&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/-Critical%20Thinking-FF6347?style=flat-square&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/-Adaptability-FFA500?style=flat-square&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/-Efficiency-32CD32?style=flat-square&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/-Technical%20Handling-FFD700?style=flat-square&logoColor=white" height="25"/>
   </p>
   
   <h3>Contacts</h3>
