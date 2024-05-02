@@ -1,3 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Abenezer's Profile</title>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  .banner {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 24px;
+    animation: blinker 2s linear infinite;
+  }
+  @keyframes blinker {
+    50% { opacity: 0; }
+  }
+  .content {
+    padding: 20px;
+    background-color: white;
+    margin: 15px;
+    border-radius: 8px;
+  }
+  .stats, .languages {
+    text-align: center;
+    margin-top: 20px;
+  }
+  iframe {
+    border-radius: 8px;
+  }
+</style>
+</head>
+<body>
+
+
+
 <div class="banner">🌟 Actively seeking a System Development Internship! 🌟</div>
 
 <div class="content">
