@@ -19,20 +19,21 @@
     padding: 10px 20px;
     text-align: center;
     font-size: 24px;
-    animation: blinker 2s linear infinite;
+    animation: slidein 5s linear infinite;
   }
-  @keyframes blinker {
-    50% { opacity: 0; }
+  @keyframes slidein {
+    from {
+      margin-left: 100%;
+    }
+    to {
+      margin-left: 0%;
+    }
   }
-  .content {
+  .content, .stats, .languages {
     padding: 20px;
     background-color: white;
     margin: 15px;
     border-radius: 8px;
-  }
-  .stats, .languages {
-    text-align: center;
-    margin-top: 20px;
   }
   iframe {
     border-radius: 8px;
@@ -41,9 +42,7 @@
 </head>
 <body>
 
-
-
-<div class="banner">🌟 Actively seeking a System Development Internship! 🌟</div>
+<div class="banner">🌟 Seeking a System Development Internship from Oct 14, 2024, to Mar 14, 2025! 🌟</div>
 
 <div class="content">
   <h2>Hi, there! I'm Abenezer.</h2>
@@ -93,4 +92,12 @@
 | *GitHub Stats* |
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbaSheger&theme=tokyonight)"
+
+<h3>Languages Used</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbaSheger&layout=compact&theme=buefy" alt="Languages Used">
+</p>
+
+
+
 
