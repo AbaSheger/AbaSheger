@@ -43,21 +43,46 @@
   </a>
 </p>
 
-## Stats
-<table>
+<style>
+  .stats-card {
+    text-align: center;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #333;
+    color: white;
+    box-shadow: 0 0 10px #719ECE;
+    animation: glow 2s ease-in-out infinite alternate;
+  }
+
+  @keyframes glow {
+    from {
+      box-shadow: 0 0 5px #719ECE, 0 0 10px #719ECE, 0 0 15px #2196F3, 0 0 20px #2196F3;
+    }
+    to {
+      box-shadow: 0 0 15px #2196F3, 0 0 20px #2196F3, 0 0 25px #0D47A1, 0 0 30px #0D47A1;
+    }
+  }
+</style>
+
+## Statistics
+
+<table style="width:100%;">
   <tr>
-    <td align="center" style="padding:10px;">
+    <td class="stats-card">
       <img src="https://github-readme-stats.vercel.app/api?username=AbaSheger&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
       <br><em>GitHub Stats</em>
     </td>
-    <td align="center" style="padding:10px;">
+    <td class="stats-card">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbaSheger&theme=tokyonight&layout=compact" alt="Top Languages"/>
       <br><em>Top Languages Used</em>
     </td>
   </tr>
 </table>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbaSheger&theme=tokyonight)
+<div class="stats-card">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbaSheger&theme=tokyonight" alt="GitHub Streak"/>
+  <br><em>GitHub Streak</em>
+</div>
 
 
 
