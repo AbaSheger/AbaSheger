@@ -38,10 +38,14 @@
 
 ## Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbaSheger&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbaSheger&theme=tokyonight&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbaSheger&show_icons=true&theme=tokyonight" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbaSheger&theme=tokyonight&layout=compact" width="350" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbaSheger&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbaSheger&theme=tokyonight" width="760" />
+</p>
 
 
 
