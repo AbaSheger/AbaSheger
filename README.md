@@ -33,42 +33,12 @@
   <img src="https://img.shields.io/badge/-Technical%20Handling-FFD700?style=flat-square&logoColor=white" height="25"/>
 </p>
 
-## Contacts
-<p align="left">
-  <a href="mailto:merebanglo@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/abenezer-anglo-537488144">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
 
-<style>
-  .stats-card {
-    text-align: center;
-    padding: 10px;
-    border-radius: 8px;
-    background-color: #333;
-    color: white;
-    box-shadow: 0 0 10px #719ECE;
-    animation: glow 2s ease-in-out infinite alternate;
-  }
 
-  @keyframes glow {
-    from {
-      box-shadow: 0 0 5px #719ECE, 0 0 10px #719ECE, 0 0 15px #2196F3, 0 0 20px #2196F3;
-    }
-    to {
-      box-shadow: 0 0 15px #2196F3, 0 0 20px #2196F3, 0 0 25px #0D47A1, 0 0 30px #0D47A1;
-    }
-  }
-</style>
+## Statistics
 
-## 🌟 Statistics 🌟
-
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbaSheger&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbaSheger&theme=tokyonight&layout=compact) |
-|:--:|:--:|
-| *GitHub Stats* | *Top Languages Used* |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbaSheger&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbaSheger&theme=tokyonight&layout=compact)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbaSheger&theme=tokyonight)
 
