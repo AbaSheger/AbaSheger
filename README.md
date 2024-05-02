@@ -64,25 +64,13 @@
   }
 </style>
 
-## Statistics
+## 🌟 Statistics 🌟
 
-<table style="width:100%;">
-  <tr>
-    <td class="stats-card">
-      <img src="https://github-readme-stats.vercel.app/api?username=AbaSheger&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-      <br><em>GitHub Stats</em>
-    </td>
-    <td class="stats-card">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbaSheger&theme=tokyonight&layout=compact" alt="Top Languages"/>
-      <br><em>Top Languages Used</em>
-    </td>
-  </tr>
-</table>
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbaSheger&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbaSheger&theme=tokyonight&layout=compact) |
+|:--:|:--:|
+| *GitHub Stats* | *Top Languages Used* |
 
-<div class="stats-card">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbaSheger&theme=tokyonight" alt="GitHub Streak"/>
-  <br><em>GitHub Streak</em>
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbaSheger&theme=tokyonight)
 
 
 
