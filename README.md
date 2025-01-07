@@ -1,6 +1,6 @@
 <div class="content">
   <h2>Hi, there! I'm Abenezer.</h2>
-  <p>I'm a software developer based in Borlänge, Dalarna, passionate about technology and creating impactful software solutions. Whether it's building responsive web applications, diving into the latest technology trends, or developing robust backend systems with Java and Spring Boot, I am always eager to learn and adapt. I am skilled in tackling new challenges and pushing the boundaries of what I can achieve with code.</p>
+  <p>I'm a software developer based in Borlänge, Dalarna, passionate about technology and creating impactful software solutions. Whether it's building responsive web applications, diving into the latest technology trends, or developing robust backend systems with Java and Spring Boot, I am always eager to learn and adapt. I am skilled in tackling new challenges and pushing the boundaries of what I can achieve with code. I am currently looking for a junior role to further develop my skills and contribute to a dynamic team.</p>
 
 
 
