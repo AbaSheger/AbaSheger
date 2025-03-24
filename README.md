@@ -66,7 +66,8 @@ I'm a software developer based in Borlänge, Dalarna, passionate about technolog
 
 ## 🐍 GitHub Activity Snake
 
-![snake gif](https://github.com/AbaSheger/AbaSheger/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/AbaSheger/AbaSheger/output/github-contribution-grid-snake.svg)
+
 
 ---
 
