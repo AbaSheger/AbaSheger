@@ -37,6 +37,9 @@
   <img src="https://img.shields.io/badge/-Technical%20Handling-FFD700?style=flat-square&logoColor=white" height="25"/>
 </p>
 
+## 🛠 Open Source Contributions
+
+[![Contributor to jmailer-spring-boot](https://img.shields.io/badge/Contributor-jmailer--spring--boot-brightgreen?style=for-the-badge)](https://github.com/josdem/jmailer-spring-boot)
 
 
 ## Statistics
