@@ -1,5 +1,9 @@
 ## 👋 Hi, there! I'm Abenezer
 
+- 🌍 Based in Borlänge, Sweden  
+- 💼 Looking for a Junior Developer Role  
+- 💡 Passionate about Backend & Full-Stack Engineering  
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Junior+Software+Developer;Spring+Boot%20%7C%20React%20%7C%20MySQL%20%7C%20.NET;Open+Source+Contributor;Always+Learning+New+Things&font=Fira+Code&center=true&width=800&height=45&color=00ffcc&vCenter=true&pause=1000&size=22" />
 </p>
