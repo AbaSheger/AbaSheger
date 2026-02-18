@@ -53,6 +53,17 @@ I'm a software developer based in Borlänge, Dalarna, passionate about technolog
 
 ---
 
+## 🎓 Certifications
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-AZ--900-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="30"/>
+</p>
+
+**Microsoft Certified: Azure Fundamentals (AZ-900)**  
+Demonstrates foundational knowledge of cloud services and how those services are provided with Microsoft Azure.
+
+---
+
 ## 🛠 Open Source Contributions
 
 [![Contributor to jmailer-spring-boot](https://img.shields.io/badge/Contributor-jmailer--spring--boot-brightgreen?style=for-the-badge)](https://github.com/josdem/jmailer-spring-boot)
