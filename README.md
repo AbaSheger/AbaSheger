@@ -56,10 +56,12 @@ I'm a software developer based in Borlänge, Dalarna, passionate about technolog
 ## 🎓 Certifications
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-AZ--900-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="30"/>
+  <a href="https://learn.microsoft.com/en-us/users/AbenezerAnglo-2880/credentials/CF22B85D7993E75D?ref=https%3A%2F%2Fwww.linkedin.com%2F">
+    <img src="https://img.shields.io/badge/-AZ--900-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="30"/>
+  </a>
 </p>
 
-**Microsoft Certified: Azure Fundamentals (AZ-900)**  
+[**Microsoft Certified: Azure Fundamentals (AZ-900)**](https://learn.microsoft.com/en-us/users/AbenezerAnglo-2880/credentials/CF22B85D7993E75D?ref=https%3A%2F%2Fwww.linkedin.com%2F)  
 Demonstrates foundational knowledge of cloud services and how those services are provided with Microsoft Azure.
 
 ---
@@ -82,7 +84,6 @@ Demonstrates foundational knowledge of cloud services and how those services are
 ## 🐍 GitHub Activity Snake
 
 ![GitHub Snake](https://raw.githubusercontent.com/AbaSheger/AbaSheger/output/github-contribution-grid-snake.svg)
-
 
 ---
 
