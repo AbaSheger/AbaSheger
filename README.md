@@ -1,7 +1,6 @@
 ## 👋 Hi, I'm Abenezer
 
-- 🇸🇪 Based in Sweden, open to Stockholm / Uppsala / remote
-- 💼 Looking for a Junior Developer role
+- 💼 Junior Software Developer — based in Sweden, open to Stockholm / Uppsala / remote
 - 🔧 Backend-focused, comfortable across the full stack
 
 <p align="center">
