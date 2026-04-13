@@ -1,54 +1,41 @@
-## 👋 Hi, there! I'm Abenezer
+## 👋 Hi, I'm Abenezer
 
-- 🌍 Based in Borlänge, Sweden  
-- 💼 Looking for a Junior Developer Role  
-- 💡 Passionate about Backend & Full-Stack Engineering  
+- 🇸🇪 Based in Sweden, open to Stockholm / Uppsala / remote
+- 💼 Looking for a Junior Developer role
+- 🔧 Backend-focused, comfortable across the full stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Junior+Software+Developer;Spring+Boot%20%7C%20React%20%7C%20MySQL%20%7C%20.NET;Open+Source+Contributor;Always+Learning+New+Things&font=Fira+Code&center=true&width=800&height=45&color=00ffcc&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Junior+Software+Developer;Spring+Boot+%7C+React+%7C+Angular+%7C+.NET;Event-Driven+%26+Microservices;Building+in+Public&font=Fira+Code&center=true&width=800&height=45&color=00ffcc&vCenter=true&pause=1000&size=22" />
 </p>
 
-I'm a software developer based in Borlänge, Dalarna, passionate about technology and creating impactful software solutions. Whether it's building responsive web applications, diving into the latest technology trends, or developing robust backend systems with Java and Spring Boot, I am always eager to learn and adapt. I am currently looking for a junior role to further develop my skills and contribute to a dynamic team.
+I build backend systems and full-stack web apps, mostly with Java and Spring Boot. My recent work covers REST APIs, event-driven microservices with Kafka, access control with Keycloak and JWT, and CI/CD pipelines with GitHub Actions and Azure DevOps. I have a live production deployment (BörsVy) running on a Hetzner VPS with Nginx and HTTPS, and I contribute to open source when I can.
+
+Currently studying for AWS Certified Developer Associate alongside ongoing C# coursework at Malmö University.
 
 ---
 
-## 💻 Core Technologies
+## 💻 Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Microservices-0078D7?style=for-the-badge&logo=spring&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-JUnit-25A162?style=for-the-badge&logo=java&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-Mockito-4CAF50?style=for-the-badge&logo=spring&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="30"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-REST%20APIs-009688?style=for-the-badge&logo=swagger&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Keycloak-4D9ABF?style=for-the-badge&logo=keycloak&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/-REST%20APIs-009688?style=for-the-badge&logo=swagger&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-JUnit-25A162?style=for-the-badge&logo=java&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Mockito-4CAF50?style=for-the-badge&logo=spring&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30"/>
-</p>
-
----
-
-## 🧠 Soft Skills
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Problem%20Solving-000000?style=flat-square&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/-Communication%20Skills-00BFFF?style=flat-square&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/-Teamwork-007396?style=flat-square&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/-Critical%20Thinking-FF6347?style=flat-square&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/-Adaptability-FFA500?style=flat-square&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/-Efficiency-32CD32?style=flat-square&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/-Technical%20Handling-FFD700?style=flat-square&logoColor=white" height="25"/>
 </p>
 
 ---
@@ -56,13 +43,17 @@ I'm a software developer based in Borlänge, Dalarna, passionate about technolog
 ## 🎓 Certifications
 
 <p align="left">
-  <a href="https://learn.microsoft.com/en-us/users/AbenezerAnglo-2880/credentials/CF22B85D7993E75D?ref=https%3A%2F%2Fwww.linkedin.com%2F">
+  <a href="https://learn.microsoft.com/en-us/users/abenezeranglo-2880/credentials/cf22b85d7993e75d">
     <img src="https://img.shields.io/badge/-AZ--900-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="30"/>
+  </a>
+  <a href="https://verify.skilljar.com/c/o3mfxajuryzu">
+    <img src="https://img.shields.io/badge/-Claude%20Code%20in%20Action-191919?style=for-the-badge&logo=anthropic&logoColor=white" height="30"/>
   </a>
 </p>
 
-[**Microsoft Certified: Azure Fundamentals (AZ-900)**](https://learn.microsoft.com/en-us/users/AbenezerAnglo-2880/credentials/CF22B85D7993E75D?ref=https%3A%2F%2Fwww.linkedin.com%2F)  
-Demonstrates foundational knowledge of cloud services and how those services are provided with Microsoft Azure.
+[**Microsoft Certified: Azure Fundamentals (AZ-900)**](https://learn.microsoft.com/en-us/users/abenezeranglo-2880/credentials/cf22b85d7993e75d)
+
+[**Claude Code in Action – Anthropic**](https://verify.skilljar.com/c/o3mfxajuryzu)
 
 ---
 
@@ -90,7 +81,8 @@ Demonstrates foundational knowledge of cloud services and how those services are
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abenezer-anglo-537488144/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:merebanglo@yahoo.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://abasheger.github.io)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:merebanglo@gmail.com)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbaSheger&theme=tokyonight" width="760" />
