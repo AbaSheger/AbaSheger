@@ -9,7 +9,7 @@
 
 I build backend systems and full-stack web apps, mostly with Java and Spring Boot. My recent work covers REST APIs, event-driven microservices with Kafka, access control with Keycloak and JWT, and CI/CD pipelines with GitHub Actions and Azure DevOps. I have a live production deployment (BörsVy) running on a Hetzner VPS with Nginx and HTTPS, and I contribute to open source when I can.
 
-Currently studying for AWS Certified Developer Associate alongside ongoing C# coursework at Malmö University.
+I have also worked with JavaScript and TypeScript on the frontend side, and picked up Python and C# along the way. Currently studying for AWS Certified Developer Associate alongside ongoing C# and machine learning coursework at Malmö University and Linköping University.
 
 ---
 
