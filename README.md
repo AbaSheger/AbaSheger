@@ -7,9 +7,9 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Junior+Software+Developer;Spring+Boot+%7C+React+%7C+Angular+%7C+.NET;Event-Driven+%26+Microservices;Building+in+Public&font=Fira+Code&center=true&width=800&height=45&color=00ffcc&vCenter=true&pause=1000&size=22" />
 </p>
 
-I build backend systems and full-stack web apps, mostly with Java and Spring Boot. My recent work covers REST APIs, event-driven microservices with Kafka, access control with Keycloak and JWT, and CI/CD pipelines with GitHub Actions and Azure DevOps. I have a live production deployment (BörsVy) running on a Hetzner VPS with Nginx and HTTPS, and I contribute to open source when I can.
+I build real things and run them in production. BörsVy is a live stock analysis platform running on a Linux VPS with Nginx, HTTPS, systemd, and AI-powered sentiment analysis via the Groq API. I built a fully automated daily job search pipeline in Python that searches multiple APIs, filters and ranks results using Claude, persists state in Supabase, and delivers matches to Telegram via a scheduled GitHub Actions workflow and Vercel webhook. My recent work also covers REST APIs, event-driven microservices with Kafka, access control with Keycloak and JWT, and CI/CD pipelines with GitHub Actions and Azure DevOps.
 
-I have also worked with JavaScript and TypeScript on the frontend side, and picked up Python and C# along the way. Currently studying for AWS Certified Developer Associate alongside ongoing C# and machine learning coursework at Malmö University and Linköping University.
+I work regularly with Claude Code, GitHub Copilot, Codex, and MCP integrations. Currently studying for AWS Certified Developer – Associate and Microsoft Azure AI Cloud Developer Associate (AI-200). Also doing Machine Learning at Linköping University and C# II at Malmö University.
 
 ---
 
